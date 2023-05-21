@@ -1,11 +1,14 @@
-# RavenBMinus-Deobf
+# RavenBMinus-Deobf+Crack
 Idk what this random 1.8.9 shit pasted forge client is... Someone just asked me to crack it but since the jar it self wasnt working, I decided to fully deobf it. When deobfing it i also found out it contained a dead webhook (https://discord.com/api/webhooks/1099709492511387750/0nkv6o_2GT_j_56GZBkrOTX7ATHrRWM6OszV8bxiX4AZm8fGup33kvhl6EuZlqNkj7N3) and a ip logger (http://api.ipify.org/) and some other random shit.
 
 **Credits:**
 ```
-_3000IQPlay#8278 - Deobfing
+_3000IQPlay#8278 - Deobfing + Cracking
 nein#8070 - Jar
 ```
+
+**Cracked jar in action:**
+![image](https://github.com/3000IQPlay/RavenBMinus-Cracked/assets/75604883/0a6cfcf1-9831-4532-8e6a-7fed2c0d1fc7)
 
 **Obfuscator used:**
 ```
