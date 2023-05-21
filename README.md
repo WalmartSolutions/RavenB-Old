@@ -4,7 +4,7 @@ Idk what this random 1.8.9 shit pasted forge client is... Someone just asked me 
 **Credits:**
 ```
 _3000IQPlay#8278 - Deobfing + Cracking
-nein#8070 - Jar
+Atom#0230 - Jar
 ```
 
 **Cracked jar in action:**
