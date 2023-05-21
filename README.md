@@ -3,6 +3,8 @@
 
 Idk what this random 1.8.9 shit pasted forge client is... Someone just asked me to crack it but since the jar it self wasnt working, I decided to fully deobf it. When deobfing it i also found out it contained a dead webhook (https://discord.com/api/webhooks/1099709492511387750/0nkv6o_2GT_j_56GZBkrOTX7ATHrRWM6OszV8bxiX4AZm8fGup33kvhl6EuZlqNkj7N3) and a ip logger (http://api.ipify.org/) and some other random shit. *The crack is safe to use (I removed all of the potentionaly harmful code)* || **$$$ STAY MAD RAVEN B- BUYERS$$$**
 
+**!!! MAKE SURE TO HAVE "-noverify" ON THE START OF YOUR JVM ARG WHEN RUNNING THE CRACK !!!**
+
 **Credits:**
 ```
 _3000IQPlay#8278 - Deobfing + Cracking
