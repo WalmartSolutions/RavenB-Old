@@ -1,7 +1,7 @@
 # RavenBMinus-Deobf+Crack
 **MAKE SURE TO JOIN: https://discord.com/invite/84J4mhnS35**
 
-Idk what this random 1.8.9 sh1t pasted forge client is... Someone just asked me to cr4ck it but since the jar it self wasnt working, I decided to fully deobf it instead. When deobfing it i also found out it contained a dead webhook (https://discord.com/api/webhooks/1099709492511387750/0nkv6o_2GT_j_56GZBkrOTX7ATHrRWM6OszV8bxiX4AZm8fGup33kvhl6EuZlqNkj7N3) and a ip logger (http://api.ipify.org/) and some other random sh1t. *The crack is safe to use (I removed all of the potentionaly harmful code)* || **$$$ STAY MAD RAVEN B- BUYERS$$$**
+Idk what this random 1.8.9 sh1t pasted forge client is... Someone just asked me to crack it but since the jar it self wasnt working, I decided to fully deobf it instead. When deobfing it i also found out it contained a dead webhook (https://discord.com/api/webhooks/1099709492511387750/0nkv6o_2GT_j_56GZBkrOTX7ATHrRWM6OszV8bxiX4AZm8fGup33kvhl6EuZlqNkj7N3) and a ip logger (http://api.ipify.org/) and some other random sh1t. *The crack is safe to use (I removed all of the potentionaly harmful code)* || **$$$ STAY MAD RAVEN B- BUYERS$$$**
 
 ## !!! MAKE SURE TO HAVE "-noverify" ON THE START OF YOUR JVM ARG WHEN RUNNING THE CRACK !!!
 ![image](https://github.com/3000IQPlay/RavenBMinus-Cracked/assets/75604883/6027603f-a649-48a8-85f3-affe91255f9b)
