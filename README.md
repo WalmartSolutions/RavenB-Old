@@ -8,7 +8,7 @@ Idk what this random 1.8.9 sh1t pasted forge client is... Someone just asked me 
 
 **Credits:**
 ```
-_3000IQPlay#8278 - Deobfing + Cr4cking
+_3000IQPlay#8278 (_3000IQPlayALT#2974) - Deobfing + Cr4cking
 Atom#0230 - Jar
 ```
 
