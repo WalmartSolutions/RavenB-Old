@@ -1,5 +1,5 @@
 # RavenBMinus-Deobf+Crack
-**MAKE SURE TO JOIN: https://discord.com/invite/A9XhxPDzex**
+**MAKE SURE TO JOIN: https://discord.gg/MmFmqRjdDV**
 
 Idk what this random 1.8.9 sh1t pasted forge client is... Someone just asked me to crack it but since the jar it self wasnt working, I decided to fully deobf it instead. When deobfing it i also found out it contained a dead webhook (https://discord.com/api/webhooks/1099709492511387750/0nkv6o_2GT_j_56GZBkrOTX7ATHrRWM6OszV8bxiX4AZm8fGup33kvhl6EuZlqNkj7N3) and a ip logger (http://api.ipify.org/) and some other random sh1t. *The crack is safe to use (I removed all of the potentionaly harmful code)* || **$$$ STAY MAD RAVEN B- BUYERS$$$**
 
